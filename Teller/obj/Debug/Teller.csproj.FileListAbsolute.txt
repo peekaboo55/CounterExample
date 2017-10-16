@@ -1,0 +1,15 @@
+c:\users\i-think\documents\visual studio 2017\Projects\Teller\Teller\bin\Debug\Teller.exe.config
+c:\users\i-think\documents\visual studio 2017\Projects\Teller\Teller\bin\Debug\Teller.exe
+c:\users\i-think\documents\visual studio 2017\Projects\Teller\Teller\bin\Debug\Teller.pdb
+c:\users\i-think\documents\visual studio 2017\Projects\Teller\Teller\obj\Debug\Teller.csprojResolveAssemblyReference.cache
+c:\users\i-think\documents\visual studio 2017\Projects\Teller\Teller\obj\Debug\Teller.Form1.resources
+c:\users\i-think\documents\visual studio 2017\Projects\Teller\Teller\obj\Debug\Teller.Properties.Resources.resources
+c:\users\i-think\documents\visual studio 2017\Projects\Teller\Teller\obj\Debug\Teller.csproj.GenerateResource.Cache
+c:\users\i-think\documents\visual studio 2017\Projects\Teller\Teller\obj\Debug\Teller.csproj.CoreCompileInputs.cache
+c:\users\i-think\documents\visual studio 2017\Projects\Teller\Teller\obj\Debug\Teller.exe
+c:\users\i-think\documents\visual studio 2017\Projects\Teller\Teller\obj\Debug\Teller.pdb
+c:\users\i-think\documents\visual studio 2017\Projects\Teller\Teller\bin\Debug\MySql.Data.dll
+c:\users\i-think\documents\visual studio 2017\Projects\Teller\Teller\obj\Debug\Teller.success.resources
+C:\Users\I-Think\documents\visual studio 2017\Projects\Teller\Teller\obj\Debug\Teller.success_withdraw.resources
+C:\Users\I-Think\documents\visual studio 2017\Projects\Teller\Teller\obj\Debug\Teller.withdrawal.resources
+C:\Users\I-Think\documents\visual studio 2017\Projects\Teller\Teller\obj\Debug\Teller.Main.resources
